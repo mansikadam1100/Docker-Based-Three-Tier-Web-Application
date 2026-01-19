@@ -156,7 +156,8 @@ This project demonstrates a complete Dockerized three-tier web application with 
 
 Mansi Kadam
 
-Gitub : https://github.com/mansikadam1100
+Github : https://github.com/mansikadam1100
 
 Medium: https://medium.com/@mansikadam1100
+
 
